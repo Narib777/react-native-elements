@@ -3153,7 +3153,7 @@ __metadata:
 
 "@rneui/base@file:../packages/base::locator=rne-website%40workspace%3A.":
   version: 4.0.0-rc.8
-  resolution: "@rneui/base@file:../packages/base#../packages/base::hash=902c90&locator=rne-website%40workspace%3A."
+  resolution: "@rneui/base@file:../packages/base#../packages/base::hash=4fdf8a&locator=rne-website%40workspace%3A."
   dependencies:
     "@types/react-native-vector-icons": ^6.4.10
     color: ^3.2.1
@@ -3164,7 +3164,7 @@ __metadata:
   peerDependencies:
     react-native-safe-area-context: ">= 3.0.0"
     react-native-vector-icons: ">7.0.0"
-  checksum: e0678ac67e70a5d67c40b13a4c5f123d0cd8373bd793cd0debbe0039448fe1535258d17aa011f2e34e8f2de50f7b55c981eb20a6f28da30729ec73cbcc4c6109
+  checksum: ed5e10bc489000d60700ea66b1d30791e49a4a1eaef291e25eb159e82a4616492c011d4db565bb3cad622e14b0c82aa9efc8fd16775b12f35724a6691b7648e1
   languageName: node
   linkType: hard
 
@@ -10171,9 +10171,9 @@ __metadata:
   linkType: hard
 
 "node-forge@npm:^1":
-  version: 1.3.1
-  resolution: "node-forge@npm:1.3.1"
-  checksum: 08fb072d3d670599c89a1704b3e9c649ff1b998256737f0e06fbd1a5bf41cae4457ccaee32d95052d80bbafd9ffe01284e078c8071f0267dc9744e51c5ed42a9
+  version: 1.4.3
+  resolution: "node-forge@npm:1.4.3"
+  checksum: 4ddd9d9eaf2f1b67282af205546ea53665b7e3853fea46c5cd7350fbcb949c1264609e6c03eca99ee8ba605dd5f51feac8be8130ac5afb528d9ae7749f70d077
   languageName: node
   linkType: hard
 
